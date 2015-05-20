@@ -1,2 +1,0 @@
-# firepro
-kasoka
