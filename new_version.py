@@ -1,2 +1,2 @@
-build=26
-version="3.0.0"
+build=27
+version="0.3.4"
