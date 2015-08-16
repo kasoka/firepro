@@ -1,5 +1,5 @@
-build=39
-version="0.5.3"
+build=42
+version="0.6.7"
 windows_url="https://drive.google.com/uc?export=download&id=0B5ijSq24BgqsWUtjOXZ2NlFBTjg"
 linux_url="https://drive.google.com/uc?export=download&id=0B5ijSq24BgqsNndFdVROOUFXWE0"
 windows_update="https://drive.google.com/uc?export=download&id=0B5ijSq24BgqsSjNmNFVkdFY3bG8"
